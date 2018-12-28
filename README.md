@@ -3,7 +3,7 @@ A simple Cordova plugin for getting the status of the ringer mode. Currently onl
 
 Setup Guide
 =======
-`cordova plugin add https://github.com/Rasim-/cordova-plugin-ringermode.git`
+`cordova plugin add https://github.com/harsh-iomedia/cordova-plugin-ringermode.git`
 
 Disclaimer
 =======
