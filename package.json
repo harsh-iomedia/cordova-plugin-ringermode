@@ -1,0 +1,31 @@
+{
+ "name": "cordova-plugin-ringermode",
+ "version": "0.0.2",
+ "description": "Check if android device is in silent mode.",
+ "cordova": {
+   "id": "cordova-plugin-ringermode",
+   "platforms": [
+     "android"
+   ]
+ },
+ "repository": {
+   "type": "git",
+   "url": "git+https://github.com/harsh-iomedia/cordova-plugin-ringermode.git"
+ },
+ "keywords": [
+   "ecosystem:cordova",
+   "cordova-android"
+ ],
+ "engines": [
+   {
+     "name": "cordova",
+     "version": ">=3.6.0"
+   }
+ ],
+ "author": "khevamann",
+ "license": "MIT",
+ "bugs": {
+   "url": "https://github.com/harsh-iomedia/cordova-plugin-ringermode/issues"
+ },
+ "homepage": "https://github.com/harsh-iomedia/cordova-plugin-ringermode"
+}
